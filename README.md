@@ -6,8 +6,7 @@ This project focuses on building an image classification model that distinguishe
 ---
 
 ## 👩‍💻 Creator  
-**Anjalee Chaudhary**  
-BCA Final Semester  
+**Anjalee Chaudhary**   
 
 ---
 
